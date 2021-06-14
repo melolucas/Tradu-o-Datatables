@@ -1,2 +1,2 @@
-# Tradu-o-Datatables
+# Tradução Datatables
 Tradução do datatables
